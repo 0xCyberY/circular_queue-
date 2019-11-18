@@ -1,0 +1,67 @@
+CIRCULAR QUEUE IMPLEMENTATION
+
+1) Insert
+2) Delete
+3) Display
+4) Exit
+ Pleaseenter the choice:
+1
+
+ Enter the element to be inserted : 23
+
+CIRCULAR QUEUE IMPLEMENTATION
+
+1) Insert
+2) Delete
+3) Display
+4) Exit
+ Pleaseenter the choice:
+1
+
+ Enter the element to be inserted : 65
+
+CIRCULAR QUEUE IMPLEMENTATION
+
+1) Insert
+2) Delete
+3) Display
+4) Exit
+ Pleaseenter the choice:
+3
+The elements in the queue are :
+
+ 23
+
+ 65
+
+CIRCULAR QUEUE IMPLEMENTATION
+
+1) Insert
+2) Delete
+3) Display
+4) Exit
+ Pleaseenter the choice:
+2
+
+ Deleted item is 23
+
+CIRCULAR QUEUE IMPLEMENTATION
+
+1) Insert
+2) Delete
+3) Display
+4) Exit
+ Pleaseenter the choice:
+3
+The elements in the queue are :
+
+ 65
+
+CIRCULAR QUEUE IMPLEMENTATION
+
+1) Insert
+2) Delete
+3) Display
+4) Exit
+ Pleaseenter the choice:
+4
